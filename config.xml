@@ -22,5 +22,5 @@
 
 	<preference name="orientation" value="portrait" />
 	
-	<access origin="*" />
+	<access origin="http://tomtom.virtualtmo.org*" />
 </widget>
